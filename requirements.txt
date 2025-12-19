@@ -4,3 +4,8 @@ matplotlib
 scikit-learn
 seaborn
 imbalanced-learn
+scipy
+xgboost
+lightgbm
+catboost
+mlflow
