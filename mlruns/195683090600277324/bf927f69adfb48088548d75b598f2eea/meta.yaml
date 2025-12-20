@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/bf927f69adfb48088548d75b598f2eea/artifacts
+end_time: 1766254501315
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: bf927f69adfb48088548d75b598f2eea
+run_name: GradientBoosting_SMOTEENN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766254498462
+status: 3
+tags: []
+user_id: root

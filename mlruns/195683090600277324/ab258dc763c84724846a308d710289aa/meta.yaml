@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/ab258dc763c84724846a308d710289aa/artifacts
+end_time: 1766254526272
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: ab258dc763c84724846a308d710289aa
+run_name: StackingClassifier_KMeansSMOTE
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766254525178
+status: 3
+tags: []
+user_id: root

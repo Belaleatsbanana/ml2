@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/ea903aa32aa04544973ee0b94ad02925/artifacts
+end_time: 1766254537886
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: ea903aa32aa04544973ee0b94ad02925
+run_name: BaggingClassifier_SMOTEENN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766254537434
+status: 3
+tags: []
+user_id: root

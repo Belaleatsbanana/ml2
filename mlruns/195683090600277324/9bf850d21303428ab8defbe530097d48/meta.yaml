@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/9bf850d21303428ab8defbe530097d48/artifacts
+end_time: 1766254485599
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: 9bf850d21303428ab8defbe530097d48
+run_name: LogisticRegression_KMeansSMOTE
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766254485394
+status: 3
+tags: []
+user_id: root

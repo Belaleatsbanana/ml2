@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/9df602658771412aa8e12fcf534d423f/artifacts
+end_time: 1766254496621
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: 9df602658771412aa8e12fcf534d423f
+run_name: GradientBoosting_ClusterCentroids
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766254494199
+status: 3
+tags: []
+user_id: root

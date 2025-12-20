@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/6b9950f1d26140a28bf706cf0c437aec/artifacts
+end_time: 1766255191815
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: 6b9950f1d26140a28bf706cf0c437aec
+run_name: Learning_Curves
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766255191796
+status: 3
+tags: []
+user_id: root

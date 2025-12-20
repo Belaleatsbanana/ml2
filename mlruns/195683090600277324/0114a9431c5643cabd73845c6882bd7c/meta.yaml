@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/0114a9431c5643cabd73845c6882bd7c/artifacts
+end_time: 1766254492356
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: 0114a9431c5643cabd73845c6882bd7c
+run_name: XGBoost_KMeansSMOTE
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766254491874
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/ad4074f6413b4b3a907b2e2ee65355f6/artifacts
+end_time: 1766254516714
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: ad4074f6413b4b3a907b2e2ee65355f6
+run_name: VotingClassifier_None
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766254512289
+status: 3
+tags: []
+user_id: root

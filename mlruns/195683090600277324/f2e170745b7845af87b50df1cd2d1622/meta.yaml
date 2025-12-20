@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/f2e170745b7845af87b50df1cd2d1622/artifacts
+end_time: 1766254525175
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: f2e170745b7845af87b50df1cd2d1622
+run_name: VotingClassifier_KMeansSMOTE
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766254521121
+status: 3
+tags: []
+user_id: root

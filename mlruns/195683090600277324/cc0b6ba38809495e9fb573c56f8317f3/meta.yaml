@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/cc0b6ba38809495e9fb573c56f8317f3/artifacts
+end_time: 1766254536479
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: cc0b6ba38809495e9fb573c56f8317f3
+run_name: VotingClassifier_SMOTEENN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766254532997
+status: 3
+tags: []
+user_id: root

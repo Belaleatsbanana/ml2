@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/c528df4f097341b2bed2bea37740f168/artifacts
+end_time: 1766254557278
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: c528df4f097341b2bed2bea37740f168
+run_name: CostSensitive_RF_Custom
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766254556775
+status: 3
+tags: []
+user_id: root

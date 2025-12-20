@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/306d872461c14ce9b1e37b1cc6ebcc43/artifacts
+end_time: 1766254532990
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: 306d872461c14ce9b1e37b1cc6ebcc43
+run_name: BaggingClassifier_ClusterCentroids
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766254532426
+status: 3
+tags: []
+user_id: root

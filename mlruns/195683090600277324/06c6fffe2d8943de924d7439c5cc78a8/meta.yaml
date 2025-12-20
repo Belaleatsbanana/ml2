@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/06c6fffe2d8943de924d7439c5cc78a8/artifacts
+end_time: 1766255192565
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: 06c6fffe2d8943de924d7439c5cc78a8
+run_name: luxuriant-toad-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766255192453
+status: 3
+tags: []
+user_id: root

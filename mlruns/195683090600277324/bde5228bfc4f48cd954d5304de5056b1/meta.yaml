@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/bde5228bfc4f48cd954d5304de5056b1/artifacts
+end_time: 1766254492400
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: bde5228bfc4f48cd954d5304de5056b1
+run_name: DecisionTree_ClusterCentroids
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766254492363
+status: 3
+tags: []
+user_id: root

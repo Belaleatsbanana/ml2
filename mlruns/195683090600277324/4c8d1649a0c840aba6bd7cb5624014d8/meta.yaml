@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/4c8d1649a0c840aba6bd7cb5624014d8/artifacts
+end_time: 1766254552106
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: 4c8d1649a0c840aba6bd7cb5624014d8
+run_name: CostSensitive_DT_Balanced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766254552038
+status: 3
+tags: []
+user_id: root

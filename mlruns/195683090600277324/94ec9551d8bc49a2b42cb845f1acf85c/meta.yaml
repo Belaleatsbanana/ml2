@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/94ec9551d8bc49a2b42cb845f1acf85c/artifacts
+end_time: 1766254662116
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: 94ec9551d8bc49a2b42cb845f1acf85c
+run_name: Tuned_RandomForest_KMeansSMOTE
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766254640742
+status: 3
+tags: []
+user_id: root

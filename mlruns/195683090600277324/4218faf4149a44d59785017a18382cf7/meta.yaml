@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/4218faf4149a44d59785017a18382cf7/artifacts
+end_time: 1766254497979
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: 4218faf4149a44d59785017a18382cf7
+run_name: KNN_SMOTEENN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766254497881
+status: 3
+tags: []
+user_id: root

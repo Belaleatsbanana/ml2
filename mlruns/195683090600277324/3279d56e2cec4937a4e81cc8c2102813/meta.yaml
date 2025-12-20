@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/3279d56e2cec4937a4e81cc8c2102813/artifacts
+end_time: 1766254492545
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: 3279d56e2cec4937a4e81cc8c2102813
+run_name: LogisticRegression_ClusterCentroids
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766254492402
+status: 3
+tags: []
+user_id: root

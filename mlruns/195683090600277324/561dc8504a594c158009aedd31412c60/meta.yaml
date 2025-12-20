@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/561dc8504a594c158009aedd31412c60/artifacts
+end_time: 1766254481708
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: 561dc8504a594c158009aedd31412c60
+run_name: KNN_None
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766254481603
+status: 3
+tags: []
+user_id: root

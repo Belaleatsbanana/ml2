@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/cea3719072f544a89a5933f4e49b1c0c/artifacts
+end_time: 1766255197205
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: cea3719072f544a89a5933f4e49b1c0c
+run_name: BEST_SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766255192570
+status: 3
+tags: []
+user_id: root

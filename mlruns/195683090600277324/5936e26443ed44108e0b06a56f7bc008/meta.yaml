@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/5936e26443ed44108e0b06a56f7bc008/artifacts
+end_time: 1766254493721
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: 5936e26443ed44108e0b06a56f7bc008
+run_name: KNN_ClusterCentroids
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766254493625
+status: 3
+tags: []
+user_id: root

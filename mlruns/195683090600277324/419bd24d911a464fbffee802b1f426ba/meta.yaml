@@ -1,0 +1,14 @@
+artifact_uri: file:///content/ml2/mlruns/195683090600277324/419bd24d911a464fbffee802b1f426ba/artifacts
+end_time: 1766254497878
+entry_point_name: ''
+experiment_id: '195683090600277324'
+lifecycle_stage: active
+run_id: 419bd24d911a464fbffee802b1f426ba
+run_name: SVM_SMOTEENN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766254497091
+status: 3
+tags: []
+user_id: root
